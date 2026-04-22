@@ -43,6 +43,7 @@ gcc main.c -o game
 2.Run the program:
 ./game   
 
-![Game](screenshots/gameplay.png)
-<br>
+
+[Game](screenshots/gameplay.png)
+
 Run the program using main.c file
